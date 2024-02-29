@@ -8,7 +8,7 @@ window.addEventListener("load", function () {
 })
 
 // preloader script ends here.........
-
+settingtoggle();
 // switch for setting
 function settingtoggle(){
   document.getElementById("setting-container").classList.toggle('settingactivate');
